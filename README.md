@@ -1,6 +1,12 @@
-Made this one night while I was bored and started wondering how other states were doing with COVID.
-A simple program thats gets the current data from the COVID tracking API and graphs positive results for each state.
-I might add more functionality later as a lot of the data looks interesting.
+##Currently:
+    Can view total number of Covid-19 cases per state.
+    Can view the total number of Covid-19 patients in the ICU over time.
+
+##To Add:
+    Death rate per state.
+    Average recovery rate per state.
+    Percent recovered.
+
 
 ---
 Sean Curran
